@@ -60,3 +60,4 @@ function alphabetWar(fight) {
    } else {
      return 'Let\'s fight again!'
    }
+}
